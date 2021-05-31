@@ -1,4 +1,4 @@
 # EventLogs
-event logs from application kitchen set and interior
+dataset from application kitchen set and interior
 
 -thesis
